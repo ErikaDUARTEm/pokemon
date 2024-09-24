@@ -1,0 +1,14 @@
+.button-search{
+    border-radius: 100px 100px;
+    background: #FFFFFF;
+    box-shadow: inset 0 0 10px #E0E0E0;
+    font-weight: bold;
+    border: none;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+    background-image: url('../../assets/sort.png');
+    background-position: center; /* Centra la imagen en el botón */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    text-align: center;
+}
