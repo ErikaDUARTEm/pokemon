@@ -13,6 +13,7 @@
     box-shadow: inset 0 0 10px #666666;
     padding: 40px;
     gap:16px;
+    z-index: 1;
 }
 li{
     background: #FFFFFF;
