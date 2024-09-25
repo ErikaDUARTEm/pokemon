@@ -15,7 +15,7 @@ export function InputSearch({ searchValue, setSearchValue, searchById }) {
     return (
         <>
             <img
-                src="./src/assets/search.png" // Ruta a tu imagen de lupa
+                src="https://raw.githubusercontent.com/ErikaDUARTEm/pokemon/refs/heads/main/src/assets/search.png" // Ruta a tu imagen de lupa
                 alt="Buscar"
                 className="search-icon"
             />
