@@ -1,7 +1,0 @@
-.input-container {
-    position: relative; /* Para que la imagen se posicione respecto a este contenedor */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap:16px;
-  }
